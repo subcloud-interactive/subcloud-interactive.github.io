@@ -5,9 +5,13 @@ html {
             height: 700px;
             width:100%;
             background-size:cover;
-  color: white;
+  
 }
 
 hr {
  border-top: 1px solid blue;
+}
+
+body {
+  color: white;
 }
