@@ -1,6 +1,6 @@
 html {
   font-family: 'Roboto', sans-serif;
-  background: url(./unnamed.png) no-repeat center center fixed; 
+  background: url("https://subcloud-interactive.github.io/unnamed.png") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
